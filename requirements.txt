@@ -1,0 +1,13 @@
+ultralytics
+xgboost
+shap
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+transformers
+accelerate
+bitsandbytes
+huggingface_hub

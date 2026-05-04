@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+*.pkl
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/.vercel
+frontend/.env*
+frontend-vite/node_modules/
+frontend-vite/dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
